@@ -1,3 +1,3 @@
 # Portfolio Website 👽️
-This is my protfolio website.
+This is my portfolio website.
 Live on - https://ishaharne03.github.io/myPortfolioWebsite/
